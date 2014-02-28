@@ -1,4 +1,4 @@
 zero.css
 ========
 
-The world's smaller CSS library! Zero size, zero functionality.
+The world's smallest CSS library! Zero size, zero functionality.
